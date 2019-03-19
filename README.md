@@ -17,3 +17,6 @@ How to Fix:
     sudo apt-get install build-essential
 
 FONT: https://www.vivaolinux.com.br/topico/C-C++/Nao-reconhece-bibliotecas-basicas
+
+
+ASK XMODULO: http://ask.xmodulo.com
