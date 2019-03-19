@@ -10,3 +10,10 @@ How to Fix:
 
 Reboot the computer.
 FONT: https://forums.linuxmint.com/viewtopic.php?t=269740
+
+fatal error: stdio.h: Arquivo ou diretório inexistente
+How to Fix: 
+    
+    sudo apt-get install build-essential
+
+FONT: https://www.vivaolinux.com.br/topico/C-C++/Nao-reconhece-bibliotecas-basicas
